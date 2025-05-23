@@ -1,6 +1,6 @@
 # IoT-Term-Team6
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=WXTklGWzqI)
+[![Watch the video](https://img.youtube.com/vi/WXTklGWzqI/hqdefault.jpg)](https://www.youtube.com/watch?v=WXTklGWzqI)
 
 
 
